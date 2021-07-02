@@ -11,3 +11,4 @@
     python -m sum.sum
     python -m diff.diff
     ```
+Feel free to * the repo if u like it
